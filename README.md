@@ -1,2 +1,2 @@
 # hello
-This is hello text file 
+This is used for github program 
